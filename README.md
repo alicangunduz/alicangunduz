@@ -54,4 +54,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicangunduz&" alt="alicangunduz" /></p>
 
-<a href="https://app.daily.dev/alicangunduz"><img src="https://api.daily.dev/devcards/1193b35c5e9c47998c90d53f34666cbf.png?r=7a9" width="400" alt="Ali Can Gündüz's Dev Card"/></a>
