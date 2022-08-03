@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="alicangunduz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alicangunduzdev" target="blank"><img src="https://img.shields.io/twitter/follow/alicangunduzdev?logo=twitter&style=for-the-badge" alt="alicangunduzdev" /></a> </p>
-
 - 🔭 I’m currently working on [budy.dev](https://budy.dev)
 
 - 🌱 I’m currently learning **JavaScript**
