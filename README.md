@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="alicangunduz" /> </p>
-
 - 🔭 I’m currently working on [budy.dev](https://budy.dev)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -51,6 +49,9 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicangunduz&show_icons=true&locale=en" alt="alicangunduz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicangunduz&" alt="alicangunduz" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="alicangunduz" /> </p>
+
 </details>
 
 
