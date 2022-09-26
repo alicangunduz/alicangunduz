@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [budy.dev](https://budy.dev)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📝 I regularly write articles on [https://alicangunduz.dev](https://alicangunduz.dev)
 
