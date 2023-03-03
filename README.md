@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS** & **Node.JS**
 - 🔗 You can find my CV and all related links on my profile.
 
 
