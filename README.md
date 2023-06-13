@@ -1,9 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer 🌐</h3>
+<p align="center">Hey there! I'm Ali Can, a passionate web developer with a love for open-source projects and community engagement. Since 2020, I've been immersed in the captivating world of software development, honing my skills and pushing boundaries. With an insatiable curiosity and a knack for collaboration, I thrive on connecting with fellow developers and making a meaningful impact in the tech community.</p>
 
 - 🌱 I’m currently learning **React.JS**
-- 🔗 You can find my CV and all related links on my profile.
+- 🔗 You can find my CV and all related links on my profile & [click 👈🏻](https://read.cv/alicangunduz)
 
 
 <h3 align="left">Languages and Tools:</h3>
