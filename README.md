@@ -28,7 +28,7 @@
 
   </p>
 <details>
-  <summary>More👇🏻</summary>
+  <summary>More click 👈🏻</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicangunduz&show_icons=true&locale=en" alt="alicangunduz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicangunduz&" alt="alicangunduz" /></p>
