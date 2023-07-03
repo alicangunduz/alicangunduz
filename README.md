@@ -3,12 +3,17 @@
 <h3 align="center">Web Developer 🌐</h3>
 <p align="center">Hey there! I'm Ali Can, a passionate web developer with a love for open-source projects and community engagement. Since 2020, I've been immersed in the captivating world of software development, honing my skills and pushing boundaries. With an insatiable curiosity and a knack for collaboration, I thrive on connecting with fellow developers and making a meaningful impact in the tech community.</p>
 
-- 🌱 I’m currently learning **React.JS**
-- 🔗 You can find my CV and all related links on my profile & [click 👈🏻](https://read.cv/alicangunduz)
+<p align="center">
+🌱 I’m currently learning <b>React.JS</b>
+</p>
+<p align="center">
+ 🔗 You can find my CV and all related links on my profile & <a href="https://read.cv/alicangunduz">Cilck</a>
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -27,13 +32,13 @@
  </p>
 
   </p>
-<details>
+<details align="center">
   <summary>More click 👈🏻</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicangunduz&show_icons=true&locale=en" alt="alicangunduz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicangunduz&" alt="alicangunduz" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="alicangunduz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alicangunduz&label=Profile%20views&color=0e75b6&style=flat" alt="alicangunduz" /> </p>
 
 </details>
 
