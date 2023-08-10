@@ -6,9 +6,7 @@
 <p align="center">
 🌱 I’m currently learning <b>React.JS</b>
 </p>
-<p align="center">
- 🔗 You can find my CV and all related links on my profile & <a href="https://read.cv/alicangunduz">Cilck</a>
-</p>
+
 
 
 
