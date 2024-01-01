@@ -4,7 +4,7 @@
 <p align="center">Hey there! I'm Ali Can, a passionate web developer with a love for open-source projects and community engagement. Since 2020, I've been immersed in the captivating world of software development, honing my skills and pushing boundaries. With an insatiable curiosity and a knack for collaboration, I thrive on connecting with fellow developers and making a meaningful impact in the tech community.</p>
 
 <p align="center">
-🌱 I’m currently learning <b>React.JS</b>
+🌱 I’m currently learning <b>React Native & GoLang</b>
 </p>
 
 
