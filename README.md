@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
 <h3 align="center">Web Developer 🌐</h3>
-<p align="center">Hey there! I'm Ali Can, a passionate web developer with a love for open-source projects and community engagement. Since 2020, I've been immersed in the captivating world of software development, honing my skills and pushing boundaries. With an insatiable curiosity and a knack for collaboration, I thrive on connecting with fellow developers and making a meaningful impact in the tech community.</p>
+<p align="center">Hi there! I'm Ali Can, a former web developer with a passion for open-source projects and community engagement. I'm now excited to embark on a new career journey as a Google Cloud Platform Specialist. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
 
 <p align="center">
-🌱 I’m currently learning <b>TypeScript</b>
+ 🌱 I’m currently learning <b>GoLang & Python</b>
 </p>
 
 
