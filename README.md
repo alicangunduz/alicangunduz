@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
 <h3 align="center">Cloud Platform Specialist 🌩️</h3>
-<p align="center">Hi there! I'm Ali Can, a former web developer with a passion for open-source projects and community engagement. I'm now excited to embark on a new career journey as a Cloud Platform Specialist. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
+<p align="center">Hi there! I'm Ali Can, a former Cloud Platform Specialist with a passion for open-source projects and community engagement. I'm now excited to embark on a new career journey as a Cloud Platform Specialist. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
 
 <p align="center">
  🌱 I’m currently learning <b>AWS & Docker</b>
