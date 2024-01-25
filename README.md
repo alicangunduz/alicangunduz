@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
-<h3 align="center">Cloud Platform Specialist 🌩️</h3>
+<h2 align="center">Cloud Platform Specialist 🌩️</h2>
 <p align="center">Hi there! I'm Ali Can, a former Cloud Platform Specialist with a passion for open-source projects and community engagement. I'm now excited to embark on a new career journey as a Cloud Platform Specialist. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
 
-<p align="center">
+<h3 align="center">
  🌱 I’m currently learning <b>AWS & Docker</b>
-</p>
+</h3>
 
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,bun,deno,express,react,redux,nextjs,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,bun,deno,express,react,redux,nextjs,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,postman&theme=light&perline=14" />
   </a>
 </p>
 
