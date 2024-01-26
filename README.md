@@ -1,6 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Ali Can Gündüz</h1>
-<h2 align="center">Cloud Platform Specialist 🌩️</h2>
 <p align="center">Hi there! I'm Ali Can, a former Cloud Platform Specialist with a passion for open-source projects and community engagement. I'm now excited to embark on a new career journey as a Cloud Platform Specialist. I'm eager to apply my knowledge and skills in the cloud computing world to help organizations develop strategic solutions for their digital transformation processes.</p>
 
 <h3 align="center">
@@ -9,12 +7,25 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,bun,deno,express,react,redux,nextjs,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,postman&perline=14" />
  </p>
+ 
+<h3 align="center">Social</h3>
+<p align="center">
+    <a href="https://twitter.com/alicangunduzdev">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/alicangunduzdev/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  <a href="https://dev.to/alicangunduz/">
+    <img src="https://skillicons.dev/icons?i=devto" />
+    </a>
+ </p>
 
-  </p>
+ 
 <details align="center">
   <summary>More click 👈🏻</summary>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicangunduz&show_icons=true&locale=en" alt="alicangunduz" /></p>
