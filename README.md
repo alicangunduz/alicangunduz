@@ -11,19 +11,7 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,py,go,js,ts,nodejs,bun,deno,express,react,redux,nextjs,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,postman&perline=14" />
  </p>
- 
-<h3 align="center">Social</h3>
-<p align="center">
-    <a href="https://twitter.com/alicangunduzdev">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-    </a>
-    <a href="https://www.linkedin.com/in/alicangunduzdev/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-  <a href="https://dev.to/alicangunduz/">
-    <img src="https://skillicons.dev/icons?i=devto" />
-    </a>
- </p>
+
 
  
 <details align="center">
