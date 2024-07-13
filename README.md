@@ -7,7 +7,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,php,go,js,ts,nodejs,bun,deno,express,react,nextjs,materialui,styledcomponents,babel,webpack,mongodb,postgres,mysql,git,githubactions,gitlab,linux,postman&perline=13" />
+    <img src="https://skillicons.dev/icons?i=go,js,ts,react,nextjs,nodejs,postgres,mongodb,mysql,docker,kubernetes,ansible,linux,git&perline=14" />
  </p>
 
 
